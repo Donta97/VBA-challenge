@@ -10,11 +10,12 @@ Testing Environment
 
 Script
 
-The script will loop through all the stocks for a year and output the following
-  - Ticker Symbol
-  - Yearly change for the year as a whole number and a percent.
-  - Total stock volume
-  - 
+  The script will loop through all the stocks for a year and output the following
+    - Ticker Symbol
+    - Yearly change for the year as a whole number and a percent.
+    - Total stock volume of the stock
+ 
+  The script also contains conditional formatting to highlight positive changes in green and negative changes in red. 
 
 
 
